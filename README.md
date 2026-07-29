@@ -32,9 +32,7 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
 - ⏱️ **Sleep Timer:** Drift off to sleep with a customizable built-in sleep timer.
 - 🚀 **Seamless Background Playback:** Powered by ExoPlayer and `MediaSessionService` for uninterrupted, battery-efficient background listening.
 
-## 📸 Screenshots & Animations
-
-> **Note:** *(Add your GIFs and screenshots in an `assets` folder and link them below!)*
+## 📸 Screenshots 
 
 <div align="center">
   <table>
@@ -44,9 +42,9 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
       <td align="center"><b>Live Notification Pill</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Player+GIF" width="250"/></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Lyrics+GIF" width="250"/></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Notification+Screenshot" width="250"/></td>
+      <td><img src="Preview/Player.jpg" width="250"/></td>
+      <td><img src="Preview/Lyrics.jpg" width="250"/></td>
+      <td><img src="Preview/Pill.jpg" width="250"/></td>
     </tr>
   </table>
 </div>
