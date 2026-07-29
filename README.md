@@ -51,25 +51,6 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
   </table>
 </div>
 
-## 🛠️ Tech Stack
-
-- **UI:** Jetpack Compose, Material 3
-- **Playback:** AndroidX Media3, ExoPlayer, `MediaSessionService`
-- **Architecture:** MVVM (Model-View-ViewModel), Coroutines, StateFlow
-- **Dependency Injection:** Dagger Hilt
-- **Image Loading:** Coil (with hardware bitmap handling for Media Sessions)
-- **Local Storage:** Room Database for Playlists & Liked Songs
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Obsidian.git
-   ```
-2. Open the project in **Android Studio**.
-3. Let Gradle sync and download the dependencies.
-4. Hit **Run** (`Shift + F10`) to deploy to your emulator or physical Android device!
-
 ## 🤝 Community & Support
 
 Join our Telegram community for updates, feature requests, and to chat with other users!
