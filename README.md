@@ -20,6 +20,15 @@
 
 Obsidian Music is a beautifully crafted, feature-rich audio player for Android. Designed with absolute attention to detail, it leverages the latest Android technologies like **Jetpack Compose** and **Media3 (ExoPlayer)** to deliver a flawlessly smooth, immersive, and premium listening experience.
 
+
+---
+
+> [!WARNING]
+> **Beta Notice:** This is our initial release! While there are no major critical bugs, you might encounter some minor glitches as we continuously polish and improve the app over time. 
+> 
+> 💬 **Have a feature request or found a bug?** [Join our Telegram Channel]( https://t.me/obsidianmusichelp ) to report issues, suggest features, and chat with the community!
+
+
 ---
 
 ## ✨ Features
