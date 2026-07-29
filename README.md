@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/obsidian.png" alt="Obsidian Logo" width="120"/>
+  <img src="Preview/obsidian.png" alt="Obsidian Logo" width="120"/>
 
   # Obsidian Music Player 🎵✨
 
