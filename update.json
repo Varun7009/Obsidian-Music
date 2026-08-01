@@ -1,10 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "1.0.1",
-  "releaseNotes": "🎵 Offline Downloads! Take your music anywhere without internet.",
-    "🎤 Perfect Lyrics Sync: Rebuilt lyrics engine for 100% perfect timing.",
-    "✨ Smoother Animations: Cleaner, faster UI and new tab switching animations.",
-    "🛠️ Fixed wrong track history and resolved navigation bar overlap bugs.",
-    "🔋 Removed annoying battery restriction popups."
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v1.0.1/ObsidianMusic.apk"
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v1.0.1/ObsidianMusic.apk",
+  "releaseNotes": "🎵 Offline Downloads! Take your music anywhere.\n🎤 Perfect Lyrics Sync: Rebuilt lyrics engine.\n✨ Smoother Animations.\n🛠️ Fixed wrong track history and UI bugs.\n🔋 Removed battery popups."
 }
