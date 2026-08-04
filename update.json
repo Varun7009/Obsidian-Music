@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v1.0.1/ObsidianMusic.apk",
-  "releaseNotes": "🎵 Offline Downloads! Take your music anywhere.\n🎤 Perfect Lyrics Sync: Rebuilt lyrics engine.\n✨ Smoother Animations.\n🛠️ Fixed wrong track history and UI bugs.\n🔋 Removed battery popups."
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v1.0.2/ObsidianMusic.apk",
+  "releaseNotes": "✨ Spotify Canvas: Looping visualizer videos in the player.\n🌧️ Obsidian Style: Premium rain effects behind lyrics.\n🌊 Squiggly Wave: Beautiful animated music progress bar.\n🛠️ Fixed isolated search history and UI bugs.\n🚀 Buttery smooth crossfade animations."
 }
