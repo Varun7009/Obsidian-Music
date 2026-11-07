@@ -1,6 +1,46 @@
 {
-  "versionCode": 9,
-  "versionName": "2.5.1",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V2.5.1/ObsidianMusic.apk",
-  "releaseNotes": "💎 Lossless FLAC Audio: Native 24-bit studio master and 16-bit CD-quality uncompressed audio tiers.\n🖼️ High-Res Artwork: Fixed blurry and low-resolution cover art with crisp high-definition image decoding.\n🎤 Seamless Lyrics: Fixed lyric gaps, timing drift across crossfade transitions, and added animated interlude dots.\n📥 YouTube Playlist Imports: Fixed import limits and crashes on large playlists, now importing 500+ tracks accurately.\n⚡ Enhanced Performance & Stability: Fixed rapid-skip metadata freezes, crushed playback bugs, and smoothed UI rendering."
-}
+  "versionCode": 10,
+  "versionName": "3.0.0",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.0/ObsidianMusic.apk",
+  "size": "74.1 MB",
+  "releaseDate": "7 November 2026",
+  "bannerUrl": "https://raw.githubusercontent.com/Varun7009/Obsidian-Music/main/Banner/Update.png",
+  "changelog": [
+    {
+      "title": "🎵 Redesigned Music Player",
+      "description": "Revamped now-playing UI with fluid immersive transitions, seamless fullscreen-to-mini player switching, and gesture controls."
+    },
+    {
+      "title": "📚 Redesigned Library & History",
+      "description": "Brand-new Library layout, custom online playlist creator, and intelligent listening history tracking."
+    },
+    {
+      "title": "🔍 Upgraded Search Engine",
+      "description": "Strict multi-language and script matching ensuring accurate Hindi, Punjabi, and regional track results."
+    },
+    {
+      "title": "💿 Redesigned Album Page",
+      "description": "Modern album view with high-res cover art, full metadata, and quick track actions."
+    },
+    {
+      "title": "🏠 Enhanced Home Screen",
+      "description": "Improved content discovery logic with smart categorization and fast recommendation loading."
+    },
+    {
+      "title": "🎚️ Hardware Equalizer & Sound",
+      "description": "Master power toggle with disabled state greying and horizontally scrollable multi-band frequency sliders."
+    },
+    {
+      "title": "🔀 Stable Fisher-Yates Shuffle",
+      "description": "Upfront shuffle permutation with unique queue IDs ensuring every track plays once before any repeats."
+    },
+    {
+      "title": "🛡️ Budget Phone Crash Protection",
+      "description": "Completely isolated audio engine from video decoders, eliminating playback crashes on Unisoc, MediaTek, and Realme phones."
+    },
+    {
+      "title": "⚡ Instant Audio Streaming",
+      "description": "Restored immediate stream playback for tracks without separate audio streams (e.g. Summer High)."
+    },
+    {
+      "
