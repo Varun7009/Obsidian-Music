@@ -1,7 +1,7 @@
 {
   "versionCode": 10,
   "versionName": "3.0.0",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.0/Obsidian.Music.apk",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.0/ObsidianMusic.apk",
   "size": "74.1 MB",
   "releaseDate": "7 November 2026",
   "bannerUrl": "https://raw.githubusercontent.com/Varun7009/Obsidian-Music/main/Banner/Update.png",
@@ -43,4 +43,9 @@
       "description": "Restored immediate stream playback for tracks without separate audio streams (e.g. Summer High)."
     },
     {
-      "
+      "title": "🚫 Clean Queue Runway",
+      "description": "Prevented accidental 50-track radio dumping on single track taps; playlists remain strictly bounded."
+    }
+  ],
+  "additionalNotes": "To get the best from Obsidian, please keep your device up to date and regularly check for software updates."
+}
