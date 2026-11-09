@@ -1,50 +1,42 @@
 {
-  "versionCode": 10,
-  "versionName": "3.0.0",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.0/Obsidian.Music.apk",
-  "size": "74.1 MB",
-  "releaseDate": "7 November 2026",
+  "versionCode": 11,
+  "versionName": "3.0.1",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.1/ObsidianMusic.apk",
+  "size": "74.2 MB",
+  "releaseDate": "9 November 2026",
   "bannerUrl": "https://raw.githubusercontent.com/Varun7009/Obsidian-Music/main/Banner/Update.png",
   "changelog": [
     {
-      "title": "Redesigned Music Player",
-      "description": "Revamped now-playing UI with fluid immersive transitions, seamless fullscreen-to-mini player switching, and gesture controls."
+      "title": "Search Suggestions Quick Actions",
+      "description": "Inline 3-dot menu and Like button directly on typeahead search suggestions, along with swipe-to-queue gesture."
     },
     {
-      "title": "Redesigned Library & History",
-      "description": "Brand-new Library layout, custom online playlist creator, and intelligent listening history tracking."
+      "title": "Library Album & Playlist Likes",
+      "description": "Liking albums or playlists from Home, Search, or headers now saves them directly into your Library collection instead of adding them as single songs in Liked Songs."
     },
     {
-      "title": "Upgraded Search Engine",
-      "description": "Strict multi-language and script matching ensuring accurate Hindi, Punjabi, and regional track results."
+      "title": "Liked Songs Auto-Cleanup",
+      "description": "Automatically filters out miscategorized album and playlist entries from Liked Songs with seamless navigation fallback."
     },
     {
-      "title": "Redesigned Album Page",
-      "description": "Modern album view with high-res cover art, full metadata, and quick track actions."
+      "title": "1-Tap Header Like Action",
+      "description": "Added dedicated Like/Save buttons directly inside Album and Playlist headers for instant library saving."
     },
     {
-      "title": "Enhanced Home Screen",
-      "description": "Improved content discovery logic with smart categorization and fast recommendation loading."
+      "title": "Offline Playback & SAF Resolution",
+      "description": "Fixed local file URI resolution under Storage Access Framework (SAF) so downloaded songs play reliably offline."
     },
     {
-      "title": "Hardware Equalizer & Sound",
-      "description": "Master power toggle with disabled state greying and horizontally scrollable multi-band frequency sliders."
+      "title": "Playback Stream Resilience",
+      "description": "Resolved stream switching race conditions and audio buffer resets when moving between offline and online media."
     },
     {
-      "title": "Stable Fisher-Yates Shuffle",
-      "description": "Upfront shuffle permutation with unique queue IDs ensuring every track plays once before any repeats."
+      "title": "Dynamic Version Information",
+      "description": "About Us and Settings screens dynamically display the active version (v3.0.1)."
     },
     {
-      "title": "Budget Phone Crash Protection",
-      "description": "Completely isolated audio engine from video decoders, eliminating playback crashes on Unisoc, MediaTek, and Realme phones."
-    },
-    {
-      "title": "Instant Audio Streaming",
-      "description": "Restored immediate stream playback for tracks without separate audio streams (e.g. Summer High)."
-    },
-    {
-      "title": "Clean Queue Runway",
-      "description": "Prevented accidental 50-track radio dumping on single track taps; playlists remain strictly bounded."
+      "title": "Performance & Crash Prevention",
+      "description": "Zero ANRs, streamlined Room database flows, and verified stability across Android 7.0 through Android 16."
     }
   ],
   "additionalNotes": "To get the best from Obsidian, please keep your device up to date and regularly check for software updates."
