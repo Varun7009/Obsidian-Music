@@ -31,10 +31,6 @@
       "description": "Resolved stream switching race conditions and audio buffer resets when moving between offline and online media."
     },
     {
-      "title": "Dynamic Version Information",
-      "description": "About Us and Settings screens dynamically display the active version (v3.0.1)."
-    },
-    {
       "title": "Performance & Crash Prevention",
       "description": "Zero ANRs, streamlined Room database flows, and verified stability across Android 7.0 through Android 16."
     }
