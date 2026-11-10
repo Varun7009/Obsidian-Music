@@ -1,38 +1,34 @@
 {
-  "versionCode": 11,
-  "versionName": "3.0.1",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.1/ObsidianMusic.apk",
-  "size": "74.2 MB",
-  "releaseDate": "9 November 2026",
+  "versionCode": 12,
+  "versionName": "3.0.2",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.2/Obsidian.Music.apk",
+  "size": "74.7 MB",
+  "releaseDate": "10 November 2026",
   "bannerUrl": "https://raw.githubusercontent.com/Varun7009/Obsidian-Music/main/Banner/Update.png",
   "changelog": [
     {
-      "title": "Search Suggestions Quick Actions",
-      "description": "Inline 3-dot menu and Like button directly on typeahead search suggestions, along with swipe-to-queue gesture."
+      "title": "Update Download Persistence",
+      "description": "Retains downloaded update APKs across app restarts and navigation, immediately showing 'Install Update' without re-downloading."
     },
     {
-      "title": "Library Album & Playlist Likes",
-      "description": "Liking albums or playlists from Home, Search, or headers now saves them directly into your Library collection instead of adding them as single songs in Liked Songs."
+      "title": "Post-Install Storage Cleanup",
+      "description": "Automatically deletes leftover update APKs from the cache once updated, saving valuable device storage."
     },
     {
-      "title": "Liked Songs Auto-Cleanup",
-      "description": "Automatically filters out miscategorized album and playlist entries from Liked Songs with seamless navigation fallback."
+      "title": "Tokenless Spotify Scraper",
+      "description": "Import Spotify playlists, albums, and songs completely login-free and token-free (tokens are now strictly reserved for Canvas)."
     },
     {
-      "title": "1-Tap Header Like Action",
-      "description": "Added dedicated Like/Save buttons directly inside Album and Playlist headers for instant library saving."
+      "title": "Audio Pipeline Telemetry Fix",
+      "description": "Corrected full-screen audio pipeline dialog metrics to accurately reflect bit-depth, sample rate, decoder engine, and bit-exact passthrough verdict."
     },
     {
-      "title": "Offline Playback & SAF Resolution",
-      "description": "Fixed local file URI resolution under Storage Access Framework (SAF) so downloaded songs play reliably offline."
+      "title": "Adaptive Navigation Insets",
+      "description": "Update info and action buttons adapt seamlessly above 3-button navigation bars and gesture navigation bars without clipping or overlap."
     },
     {
-      "title": "Playback Stream Resilience",
-      "description": "Resolved stream switching race conditions and audio buffer resets when moving between offline and online media."
-    },
-    {
-      "title": "Performance & Crash Prevention",
-      "description": "Zero ANRs, streamlined Room database flows, and verified stability across Android 7.0 through Android 16."
+      "title": "Crash & Installation Fixes",
+      "description": "Resolved startup crashes, fixed update install errors, and validated zero error logs across Android 7.0 through Android 16."
     }
   ],
   "additionalNotes": "To get the best from Obsidian, please keep your device up to date and regularly check for software updates."
