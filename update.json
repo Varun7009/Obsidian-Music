@@ -1,35 +1,27 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0.2",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V3.0.2/ObsidianMusic.apk",
-  "size": "74.7 MB",
-  "releaseDate": "10 November 2026",
+  "versionCode": 13,
+  "versionName": "3.0.3",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v3.0.3/ObsidianMusic.apk",
+  "size": "74.8 MB",
+  "releaseDate": "12 November 2026",
   "bannerUrl": "https://raw.githubusercontent.com/Varun7009/Obsidian-Music/main/Banner/Update.png",
   "changelog": [
     {
-      "title": "Update Download Persistence",
-      "description": "Retains downloaded update APKs across app restarts and navigation, immediately showing 'Install Update' without re-downloading."
+      "title": "Dolby Atmos Audio & Glowing Badge",
+      "description": "Full-screen player features an authentic Dolby Atmos Double-D badge with an ambient animated glow, with adaptive hardware and addon audio detection."
     },
     {
-      "title": "Post-Install Storage Cleanup",
-      "description": "Automatically deletes leftover update APKs from the cache once updated, saving valuable device storage."
+      "title": "120 FPS Canvas-to-Lyrics Fluidity",
+      "description": "Transition animation from full-screen Spotify Canvas to lyrics runs at locked 60/120 FPS using zero-recomposition Draw-phase execution and continuous Skia GPU blur."
     },
     {
-      "title": "Tokenless Spotify Scraper",
-      "description": "Import Spotify playlists, albums, and songs completely login-free and token-free (tokens are now strictly reserved for Canvas)."
+      "title": "Zero-Glitch Interactive Player Drag",
+      "description": "Smooth vertical drag gesture between miniplayer and full player with zero layout glitches, persistent miniplayer album art, and instant album navigation."
     },
     {
-      "title": "Audio Pipeline Telemetry Fix",
-      "description": "Corrected full-screen audio pipeline dialog metrics to accurately reflect bit-depth, sample rate, decoder engine, and bit-exact passthrough verdict."
+      "title": "Resilient Artwork Pipeline",
+      "description": "Multi-tier artwork fallback architecture ensuring album, artist, and folder hero backgrounds and thumbnails remain crisp without disappearing."
     },
-    {
-      "title": "Adaptive Navigation Insets",
-      "description": "Update info and action buttons adapt seamlessly above 3-button navigation bars and gesture navigation bars without clipping or overlap."
-    },
-    {
-      "title": "Crash & Installation Fixes",
-      "description": "Resolved startup crashes, fixed update install errors, and validated zero error logs across Android 7.0 through Android 16."
-    }
   ],
   "additionalNotes": "To get the best from Obsidian, please keep your device up to date and regularly check for software updates."
 }
